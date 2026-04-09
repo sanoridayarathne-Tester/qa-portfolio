@@ -2,3 +2,5 @@
 - Manual Testing
 - Test Case Design
 - Defect Reporting
+- API Testing
+- Automation Testing
